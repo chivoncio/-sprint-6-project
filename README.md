@@ -3,3 +3,5 @@ Desarrollar una aplicación que permita a los usuarios del concesionario analiza
 
 Histograma: Para visualizar la distribución de frecuencias de una variable numérica.
 Diagrama de dispersión: Para explorar la relación entre dos variables numéricas.
+
+link para acceder: https://sprint-6-project-qgrx.onrender.com
