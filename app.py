@@ -1,7 +1,8 @@
 # primero importamos todas las librerias necesarias
-import streamlit as st
 import pandas as pd
 import plotly_express as px
+import streamlit as st
+
 
 # leere el archivo CSV y se le asignara una variable
 car_data = pd.read_csv('vehicles_us.csv')
